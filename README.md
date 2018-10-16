@@ -1,8 +1,3 @@
-# Projects in ML : Beginner to Professional
-The course covers a number of different machine learning algorithms such as supervised learning, unsupervised learning, reinforced learning and even neural networks. From there you will learn how to incorporate these algorithms into actual projects so you can see how they work in action! But, that’s not all. In addition to quizzes that you’ll find at the end of each section, the course also includes a 6 brand new projects that can help you experience the power of Machine Learning using real-world examples!
-
-# 9 Projects That Are Included in This Course:
-
 Project 1 -Board Game Review Prediction – In this project, you’ll see how to perform a linear regression analysis by predicting the average reviews on a board game in this project.
 
 Project 2 – Credit Card Fraud Detection – In this project, you’ll learn to focus on anomaly detection by using probability densities to detect credit card fraud.
@@ -25,4 +20,4 @@ learning method to analyze and classify 28 x 28 pixel images from the MNIST data
 
 Project 9 – Data Compression & Visualization Using Principle Component Analysis – This project will show you how to compress
 
-our Iris dataset into a 2D feature set and how to visualize it through a normal x-y plot using k-means clustering.
+our Iris dataset into a 2D feature set and how to visualize it through a normal x-y plot using k-means clustering. 
