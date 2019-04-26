@@ -18,6 +18,4 @@ Project 8 – K-Means Clustering For Image Analysis – In this project, you’l
 
 learning method to analyze and classify 28 x 28 pixel images from the MNIST dataset.
 
-Project 9 – Data Compression & Visualization Using Principle Component Analysis – This project will show you how to compress
-
-our Iris dataset into a 2D feature set and how to visualize it through a normal x-y plot using k-means clustering. 
+Project 9 – Data Compression & Visualization Using Principle Component Analysis – This project will show you how to compress our Iris dataset into a 2D feature set and how to visualize it through a normal x-y plot using k-means clustering. 
