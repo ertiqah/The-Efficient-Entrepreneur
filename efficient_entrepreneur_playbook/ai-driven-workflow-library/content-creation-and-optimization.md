@@ -6,6 +6,10 @@ description: Efficient Content Production
 
 This toolset streamlines content creation, enhances quality, and optimizes for engagement across multiple platforms. The workflow integrates various content types for comprehensive marketing campaigns.
 
+{% hint style="info" %}
+**Note:** We go in-depth into our content creation system in [this issue of the newsletter](https://newsletter.ertiqah.com/p/weeks-worth-content-just-2-hours). Below is a more expanded version of the system that we're currently using, as of August 2024.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/content-creation.png" alt=""><figcaption><p>End-to-End Workflow</p></figcaption></figure>
 
 ### Process
