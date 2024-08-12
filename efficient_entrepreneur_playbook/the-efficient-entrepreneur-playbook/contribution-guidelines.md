@@ -2,6 +2,10 @@
 
 We welcome contributions from the community to enhance and evolve The Efficient Entrepreneur Playbook. Your real-world experiences and insights are invaluable in making this resource more comprehensive and effective for all users.
 
+{% hint style="info" %}
+Contributions will only be accepted from subscribers of The Efficient Entrepreneur. If you aren't subscribed, you can do that here: [https://newsletter.ertiqah.com](https://newsletter.ertiqah.com)&#x20;
+{% endhint %}
+
 ### How to Contribute
 
 1. Fork the repository
@@ -38,7 +42,8 @@ To maintain the high quality and practical value of this playbook, we adhere to 
 
 1. All contributions will be reviewed by our core team for quality, relevance, and adherence to guidelines.
 2. We may suggest edits or ask for more information before merging.
-3. Approved contributions will be merged and the contributor will be added to our public list of contributors.
+3. We may ask your email with which you are subscribed to [The Efficient Entrepreneur](https://newsletter.ertiqah.com), so if you aren't subscribed, please make sure you do.
+4. Approved contributions will be merged and the contributor will be added to our public list of contributors.
 
 ### Recognition
 
