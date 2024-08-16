@@ -1,6 +1,6 @@
 ---
 description: AI prompts & tools from founders who are living with them
-cover: .gitbook/assets/LIbanner.png
+cover: .gitbook/assets/20.png
 coverY: 0
 ---
 
