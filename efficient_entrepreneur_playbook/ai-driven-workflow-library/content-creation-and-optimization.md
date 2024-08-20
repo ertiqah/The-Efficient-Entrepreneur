@@ -31,7 +31,7 @@ This toolset streamlines content creation, enhances quality, and optimizes for e
    * Use Jasper.ai for written content
    * Create video content with Synthesia
    * Generate visual assets using Canva API
-4. **Content Optimization -** [**Taplio**](https://taplio.com/?)**,** [**AuthoredUp**](https://authoredup.com)**,** [**Frase.io**](https://www.frase.io) **Action:**
+4. **Content Optimization -** [**Taplio**](https://taplio.com/?)**,** [**AuthoredUp**](https://authoredup.com/?red=ertiqae67be1)**,** [**Frase.io**](https://www.frase.io) **Action:**
    * Optimize LinkedIn content with Taplio
    * Enhance posts with advanced formatting using AuthoredUp
    * Create AI-powered content briefs with Frase.io
